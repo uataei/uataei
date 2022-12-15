@@ -4,6 +4,9 @@ I am a web developer.
 
 I have more than 2 years of experience and programming ability in the field of network and communication, I facilitated my work process and I have a key role in many projects. Python, Django and JavaScript are my specializations in programming.
 
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=uataei)
+[![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Fuataei.github.io%2F)](https://uataei.github.io)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
