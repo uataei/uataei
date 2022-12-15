@@ -9,9 +9,8 @@ I have more than 2 years of experience and programming ability in the field of n
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="Center">
+<p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,django,docker,kubernetes,linux,bash,git,javascript,postgresql,mongodb" />
       <img src="https://skillicons.dev/icons?i=python,django,docker,kubernetes,linux,bash,git,javascript,postgresql,mongodb" />
   </a>
 </p>
