@@ -23,7 +23,6 @@ I have more than 2 years of experience and programming ability in the field of n
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.svg" alt="vscode" height="25"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.svg" alt="postgresql" height="25"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.svg" alt="nginx" width="50" height="25"/>
-<a href="https://iconscout.com/icons/heroku" target="_blank">Heroku Logo Icon</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
 </p>
 
 
