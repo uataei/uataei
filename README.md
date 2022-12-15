@@ -1,10 +1,9 @@
 ### Hi There 
-<br />
+
 I am a web developer.
-<br />
+
 I have more than 2 years of experience and programming ability in the field of network and communication, I facilitated my work process and I have a key role in many projects. Python, Django and JavaScript are my specializations in programming.
 
-<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
@@ -15,7 +14,6 @@ I have more than 2 years of experience and programming ability in the field of n
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 </p>
 
-<br />
 
 <h3 align="left">States:</h3>
 
