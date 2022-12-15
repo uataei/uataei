@@ -32,7 +32,7 @@ I have more than 2 years of experience and programming ability in the field of n
 | ------------- | ------------- |
 
 
-### Connect with me
+<h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/uataei)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ataeiu@gmail.com)
