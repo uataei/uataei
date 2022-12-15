@@ -11,7 +11,7 @@ I have more than 2 years of experience and programming ability in the field of n
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,ts,webpack,php,nodejs,python,django,laravel,graphql,postgres,express,postman,fastapi,gitlab,git,mongodb,mysql,kubernetes,docker,redis,vim" />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,ts,webpack,php,nodejs,python,django,laravel,graphql,postgres,express,gopostman,fastapi,gitlab,git,mongodb,mysql,kubernetes,docker,redis,vim" />
 </a>
 </p>
 
