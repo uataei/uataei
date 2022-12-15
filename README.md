@@ -34,6 +34,5 @@ I have more than 2 years of experience and programming ability in the field of n
 
 <h3 align="left">States:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uataei)](https://github.com/anuraghazra/github-readme-stats)
-[![TheYousefAtaei's GitHub stats](https://github-readme-stats.vercel.app/api?username=uataei)](https://github.com/anuraghazra/github-readme-stats)
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uataei&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yousef Ataei's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uataei&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
