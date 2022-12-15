@@ -7,16 +7,16 @@ I have more than 2 years of experience and programming ability in the field of n
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.svg" alt="python" height="30"/></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg" alt="javascipt" height="30"/></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-icon.svg" alt="django" height="30"></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.svg" alt="docker" height="30"/></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="postman" height="30"/></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.svg" alt="mongodb" height="30"/></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="html5" height="30"/></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.svg" alt="git" height="30"/></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.svg" alt="nginx" width="50" height="30"/></code>
-<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.svg" alt="postgresql" height="30"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.svg" alt="python" height="25"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg" alt="javascipt" height="25"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-icon.svg" alt="django" height="25"></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.svg" alt="docker" height="25"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="postman" height="25"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.svg" alt="mongodb" height="25"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="html5" height="25"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.svg" alt="git" height="25"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.svg" alt="nginx" width="50" height="25"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.svg" alt="postgresql" height="25"/></code>
 </p>
 
 
