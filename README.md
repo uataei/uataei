@@ -1,5 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Yousef. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 I am a web developer.
 
 I have more than 2 years of experience and programming ability in the field of network and communication, I facilitated my work process and I have a key role in many projects. Python, Django and JavaScript are my specializations in programming.
