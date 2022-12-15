@@ -21,8 +21,8 @@ I have more than 2 years of experience and programming ability in the field of n
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/heroku-icon.svg" alt="heroku" height="25"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.svg" alt="git" height="25"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.svg" alt="vscode" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.svg" alt="nginx" width="50" height="25"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.svg" alt="postgresql" height="25"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.svg" alt="nginx" width="50" height="25"/>
 </p>
 
 
