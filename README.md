@@ -9,20 +9,10 @@ I have more than 2 years of experience and programming ability in the field of n
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">    
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.svg" alt="python" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg" alt="javascipt" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-icon.svg" alt="django" height="25">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.svg" alt="docker" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="postman" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.svg" alt="mongodb" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="html5" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.svg" alt="css" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/heroku-icon.svg" alt="heroku" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.svg" alt="git" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.svg" alt="vscode" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.svg" alt="postgresql" height="25"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.svg" alt="nginx" width="50" height="25"/>
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,ts,webpack,php,nodejs,python,django,laravel,graphql,postgres,express,fastapi,gitlab,git,mongodb,mysql,nestjs,nextjs,react,kubernetes,docker,redis,vim,wordpress" />
+</a>
 </p>
 
 
