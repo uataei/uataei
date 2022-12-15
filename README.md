@@ -10,6 +10,9 @@ I have more than 2 years of experience and programming ability in the field of n
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/></code>
 </p>
 
