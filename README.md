@@ -30,3 +30,10 @@ I have more than 2 years of experience and programming ability in the field of n
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uataei&show_icons=true&include_all_commits=true&hide_border=true" alt="Yousef Ataei's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uataei&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+<br>
+### Connect with me
+
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/uataei)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ataeiu@gmail.com)
