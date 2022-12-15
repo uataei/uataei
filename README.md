@@ -1,4 +1,4 @@
-### Hi there Waving Hand Light Skin Tone
+### Hi there
 
 <!--
 **uataei/uataei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
