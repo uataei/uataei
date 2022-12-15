@@ -32,7 +32,6 @@ I have more than 2 years of experience and programming ability in the field of n
 | ------------- | ------------- |
 
 
-<br>
 ### Connect with me
 
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/uataei)
