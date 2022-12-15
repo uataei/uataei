@@ -13,6 +13,7 @@ I have more than 2 years of experience and programming ability in the field of n
 <code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="postman" height="30"/></code>
 <code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.svg" alt="mongodb" height="30"/></code>
 <code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="html5" height="30"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.svg" alt="nginx" height="30"/></code>
 <code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.svg" alt="postgresql" height="30"/></code>
 </p>
 
