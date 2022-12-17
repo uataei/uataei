@@ -18,7 +18,7 @@ I have more than 2 years of experience and programming ability in the field of n
 
 <h3 align="left">States:</h3>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uataei&include_all_commits=true&hide_border=true&show_icons=false&count_private=true&hide=stars,commits,prs,issues,contribs" alt="Yousef Ataei's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uataei&layout=compact&hide_border=true"/></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uataei&include_all_commits=true&hide_border=true&show_icons=false&count_private=false" alt="Yousef Ataei's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uataei&layout=compact&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 
