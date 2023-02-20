@@ -11,7 +11,7 @@ I have more than 2 years of experience and programming ability in the field of n
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,vscode,docker,kubernetes,linux,bash,github,git,postgresql,mongodb,postman" />
+      <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,vscode,docker,linux,github,git,postgresql,postman" />
   </a>
 </p>
 
